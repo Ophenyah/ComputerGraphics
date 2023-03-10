@@ -1,0 +1,3 @@
+/home/sodenis/Documents/polimi/Computer Graphics/assignment/A00/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/sodenis/Documents/polimi/Computer Graphics/assignment/A00/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/sodenis/Documents/polimi/Computer Graphics/assignment/A00/cmake-build-debug/CMakeFiles/A00.dir

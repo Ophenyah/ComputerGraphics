@@ -1,0 +1,4 @@
+/home/sodenis/clion-2021.2.2/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_DEPENDS_USE_COMPILER=FALSE -G "CodeBlocks - Unix Makefiles" "/home/sodenis/Documents/polimi/Computer Graphics/assignment/A00"
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/sodenis/Documents/polimi/Computer Graphics/assignment/A00/cmake-build-debug

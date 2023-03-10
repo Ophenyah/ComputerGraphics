@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/A00.dir/headers/glm/detail/glm.cpp.o CMakeFiles/A00.dir/A00.cpp.o -o A00 

@@ -1,0 +1,1227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="A00"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/sodenis/Documents/polimi/Computer Graphics/assignment/A00/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/sodenis/Documents/polimi/Computer\ Graphics/assignment/A00/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/sodenis/Documents/polimi/Computer\ Graphics/assignment/A00/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/sodenis/Documents/polimi/Computer\ Graphics/assignment/A00/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/sodenis/Documents/polimi/Computer\ Graphics/assignment/A00/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/home/sodenis/Documents/polimi/Computer Graphics/assignment/A00/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/sodenis/Documents/polimi/Computer\ Graphics/assignment/A00/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/sodenis/Documents/polimi/Computer\ Graphics/assignment/A00/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/sodenis/Documents/polimi/Computer\ Graphics/assignment/A00/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/sodenis/Documents/polimi/Computer\ Graphics/assignment/A00/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/home/sodenis/Documents/polimi/Computer Graphics/assignment/A00/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/sodenis/Documents/polimi/Computer\ Graphics/assignment/A00/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/sodenis/Documents/polimi/Computer\ Graphics/assignment/A00/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/sodenis/Documents/polimi/Computer\ Graphics/assignment/A00/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/sodenis/Documents/polimi/Computer\ Graphics/assignment/A00/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="A00">
+				<Option output="/home/sodenis/Documents/polimi/Computer Graphics/assignment/A00/cmake-build-debug/A00" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/sodenis/Documents/polimi/Computer Graphics/assignment/A00/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/sodenis/Documents/polimi/Computer Graphics/assignment/A00/."/>
+					<Add directory="/home/sodenis/Documents/polimi/Computer Graphics/assignment/A00/headers"/>
+					<Add directory="/home/sodenis/Documents/polimi/Computer Graphics/assignment/A00/headers/glm"/>
+					<Add directory="/home/sodenis/Documents/polimi/Computer Graphics/assignment/A00/headers/glm/detail"/>
+					<Add directory="/home/sodenis/Documents/polimi/Computer Graphics/assignment/A00/headers/glm/ext"/>
+					<Add directory="/home/sodenis/Documents/polimi/Computer Graphics/assignment/A00/headers/glm/gtc"/>
+					<Add directory="/home/sodenis/Documents/polimi/Computer Graphics/assignment/A00/headers/glm/gtx"/>
+					<Add directory="/home/sodenis/Documents/polimi/Computer Graphics/assignment/A00/headers/glm/simd"/>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/sodenis/Documents/polimi/Computer\ Graphics/assignment/A00/cmake-build-debug/Makefile&quot;  VERBOSE=1 A00"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/sodenis/Documents/polimi/Computer\ Graphics/assignment/A00/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/sodenis/Documents/polimi/Computer\ Graphics/assignment/A00/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/sodenis/Documents/polimi/Computer\ Graphics/assignment/A00/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="A00/fast">
+				<Option output="/home/sodenis/Documents/polimi/Computer Graphics/assignment/A00/cmake-build-debug/A00" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/sodenis/Documents/polimi/Computer Graphics/assignment/A00/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/sodenis/Documents/polimi/Computer Graphics/assignment/A00/."/>
+					<Add directory="/home/sodenis/Documents/polimi/Computer Graphics/assignment/A00/headers"/>
+					<Add directory="/home/sodenis/Documents/polimi/Computer Graphics/assignment/A00/headers/glm"/>
+					<Add directory="/home/sodenis/Documents/polimi/Computer Graphics/assignment/A00/headers/glm/detail"/>
+					<Add directory="/home/sodenis/Documents/polimi/Computer Graphics/assignment/A00/headers/glm/ext"/>
+					<Add directory="/home/sodenis/Documents/polimi/Computer Graphics/assignment/A00/headers/glm/gtc"/>
+					<Add directory="/home/sodenis/Documents/polimi/Computer Graphics/assignment/A00/headers/glm/gtx"/>
+					<Add directory="/home/sodenis/Documents/polimi/Computer Graphics/assignment/A00/headers/glm/simd"/>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/sodenis/Documents/polimi/Computer\ Graphics/assignment/A00/cmake-build-debug/Makefile&quot;  VERBOSE=1 A00/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/sodenis/Documents/polimi/Computer\ Graphics/assignment/A00/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/sodenis/Documents/polimi/Computer\ Graphics/assignment/A00/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/sodenis/Documents/polimi/Computer\ Graphics/assignment/A00/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/sodenis/Documents/polimi/Computer Graphics/assignment/A00/A00.cpp">
+			<Option target="A00"/>
+		</Unit>
+		<Unit filename="/home/sodenis/Documents/polimi/Computer Graphics/assignment/A00/Starter.hpp">
+			<Option target="A00"/>
+		</Unit>
+		<Unit filename="/home/sodenis/Documents/polimi/Computer Graphics/assignment/A00/TextMaker.hpp">
+			<Option target="A00"/>
+		</Unit>
+		<Unit filename="/home/sodenis/Documents/polimi/Computer Graphics/assignment/A00/headers/glm/common.hpp">
+			<Option target="A00"/>
+		</Unit>
+		<Unit filename="/home/sodenis/Documents/polimi/Computer Graphics/assignment/A00/headers/glm/detail/_features.hpp">
+			<Option target="A00"/>
+		</Unit>
+		<Unit filename="/home/sodenis/Documents/polimi/Computer Graphics/assignment/A00/headers/glm/detail/_fixes.hpp">
+			<Option target="A00"/>
+		</Unit>
+		<Unit filename="/home/sodenis/Documents/polimi/Computer Graphics/assignment/A00/headers/glm/detail/_noise.hpp">
+			<Option target="A00"/>
+		</Unit>
+		<Unit filename="/home/sodenis/Documents/polimi/Computer Graphics/assignment/A00/headers/glm/detail/_swizzle.hpp">
+			<Option target="A00"/>
+		</Unit>
+		<Unit filename="/home/sodenis/Documents/polimi/Computer Graphics/assignment/A00/headers/glm/detail/_swizzle_func.hpp">
+			<Option target="A00"/>
+		</Unit>
+		<Unit filename="/home/sodenis/Documents/polimi/Computer Graphics/assignment/A00/headers/glm/detail/_vectorize.hpp">
+			<Option target="A00"/>
+		</Unit>
+		<Unit filename="/home/sodenis/Documents/polimi/Computer Graphics/assignment/A00/headers/glm/detail/compute_common.hpp">
+			<Option target="A00"/>
+		</Unit>
+		<Unit filename="/home/sodenis/Documents/polimi/Computer Graphics/assignment/A00/headers/glm/detail/compute_vector_relational.hpp">
+			<Option target="A00"/>
+		</Unit>
+		<Unit filename="/home/sodenis/Documents/polimi/Computer Graphics/assignment/A00/headers/glm/detail/func_common.inl">
+			<Option target="A00"/>
+		</Unit>
+		<Unit filename="/home/sodenis/Documents/polimi/Computer Graphics/assignment/A00/headers/glm/detail/func_common_simd.inl">
+			<Option target="A00"/>
+		</Unit>
+		<Unit filename="/home/sodenis/Documents/polimi/Computer Graphics/assignment/A00/headers/glm/detail/func_exponential.inl">
+			<Option target="A00"/>
+		</Unit>
+		<Unit filename="/home/sodenis/Documents/polimi/Computer Graphics/assignment/A00/headers/glm/detail/func_exponential_simd.inl">
+			<Option target="A00"/>
+		</Unit>
+		<Unit filename="/home/sodenis/Documents/polimi/Computer Graphics/assignment/A00/headers/glm/detail/func_geometric.inl">
+			<Option target="A00"/>
+		</Unit>
+		<Unit filename="/home/sodenis/Documents/polimi/Computer Graphics/assignment/A00/headers/glm/detail/func_geometric_simd.inl">
+			<Option target="A00"/>
+		</Unit>
+		<Unit filename="/home/sodenis/Documents/polimi/Computer Graphics/assignment/A00/headers/glm/detail/func_integer.inl">
+			<Option target="A00"/>
+		</Unit>
+		<Unit filename="/home/sodenis/Documents/polimi/Computer Graphics/assignment/A00/headers/glm/detail/func_integer_simd.inl">
+			<Option target="A00"/>
+		</Unit>
+		<Unit filename="/home/sodenis/Documents/polimi/Computer Graphics/assignment/A00/headers/glm/detail/func_matrix.inl">
+			<Option target="A00"/>
+		</Unit>
+		<Unit filename="/home/sodenis/Documents/polimi/Computer Graphics/assignment/A00/headers/glm/detail/func_matrix_simd.inl">
+			<Option target="A00"/>
+		</Unit>
+		<Unit filename="/home/sodenis/Documents/polimi/Computer Graphics/assignment/A00/headers/glm/detail/func_packing.inl">
+			<Option target="A00"/>
+		</Unit>
+		<Unit filename="/home/sodenis/Documents/polimi/Computer Graphics/assignment/A00/headers/glm/detail/func_packing_simd.inl">
+			<Option target="A00"/>
+		</Unit>
+		<Unit filename="/home/sodenis/Documents/polimi/Computer Graphics/assignment/A00/headers/glm/detail/func_trigonometric.inl">
+			<Option target="A00"/>
+		</Unit>
+		<Unit filename="/home/sodenis/Documents/polimi/Computer Graphics/assignment/A00/headers/glm/detail/func_trigonometric_simd.inl">
+			<Option target="A00"/>
+		</Unit>
+		<Unit filename="/home/sodenis/Documents/polimi/Computer Graphics/assignment/A00/headers/glm/detail/func_vector_relational.inl">
+			<Option target="A00"/>
+		</Unit>
+		<Unit filename="/home/sodenis/Documents/polimi/Computer Graphics/assignment/A00/headers/glm/detail/func_vector_relational_simd.inl">
+			<Option target="A00"/>
+		</Unit>
+		<Unit filename="/home/sodenis/Documents/polimi/Computer Graphics/assignment/A00/headers/glm/detail/glm.cpp">
+			<Option target="A00"/>
+		</Unit>
+		<Unit filename="/home/sodenis/Documents/polimi/Computer Graphics/assignment/A00/headers/glm/detail/qualifier.hpp">
+			<Option target="A00"/>
+		</Unit>
+		<Unit filename="/home/sodenis/Documents/polimi/Computer Graphics/assignment/A00/headers/glm/detail/setup.hpp">
+			<Option target="A00"/>
+		</Unit>
+		<Unit filename="/home/sodenis/Documents/polimi/Computer Graphics/assignment/A00/headers/glm/detail/type_float.hpp">
+			<Option target="A00"/>
+		</Unit>
+		<Unit filename="/home/sodenis/Documents/polimi/Computer Graphics/assignment/A00/headers/glm/detail/type_half.hpp">
+			<Option target="A00"/>
+		</Unit>
+		<Unit filename="/home/sodenis/Documents/polimi/Computer Graphics/assignment/A00/headers/glm/detail/type_half.inl">
+			<Option target="A00"/>
+		</Unit>
+		<Unit filename="/home/sodenis/Documents/polimi/Computer Graphics/assignment/A00/headers/glm/detail/type_mat2x2.hpp">
+			<Option target="A00"/>
+		</Unit>
+		<Unit filename="/home/sodenis/Documents/polimi/Computer Graphics/assignment/A00/headers/glm/detail/type_mat2x2.inl">
+			<Option target="A00"/>
+		</Unit>
+		<Unit filename="/home/sodenis/Documents/polimi/Computer Graphics/assignment/A00/headers/glm/detail/type_mat2x3.hpp">
+			<Option target="A00"/>
+		</Unit>
+		<Unit filename="/home/sodenis/Documents/polimi/Computer Graphics/assignment/A00/headers/glm/detail/type_mat2x3.inl">
+			<Option target="A00"/>
+		</Unit>
+		<Unit filename="/home/sodenis/Documents/polimi/Computer Graphics/assignment/A00/headers/glm/detail/type_mat2x4.hpp">
+			<Option target="A00"/>
+		</Unit>
+		<Unit filename="/home/sodenis/Documents/polimi/Computer Graphics/assignment/A00/headers/glm/detail/type_mat2x4.inl">
+			<Option target="A00"/>
+		</Unit>
+		<Unit filename="/home/sodenis/Documents/polimi/Computer Graphics/assignment/A00/headers/glm/detail/type_mat3x2.hpp">
+			<Option target="A00"/>
+		</Unit>
+		<Unit filename="/home/sodenis/Documents/polimi/Computer Graphics/assignment/A00/headers/glm/detail/type_mat3x2.inl">
+			<Option target="A00"/>
+		</Unit>
+		<Unit filename="/home/sodenis/Documents/polimi/Computer Graphics/assignment/A00/headers/glm/detail/type_mat3x3.hpp">
+			<Option target="A00"/>
+		</Unit>
+		<Unit filename="/home/sodenis/Documents/polimi/Computer Graphics/assignment/A00/headers/glm/detail/type_mat3x3.inl">
+			<Option target="A00"/>
+		</Unit>
+		<Unit filename="/home/sodenis/Documents/polimi/Computer Graphics/assignment/A00/headers/glm/detail/type_mat3x4.hpp">
+			<Option target="A00"/>
+		</Unit>
+		<Unit filename="/home/sodenis/Documents/polimi/Computer Graphics/assignment/A00/headers/glm/detail/type_mat3x4.inl">
+			<Option target="A00"/>
+		</Unit>
+		<Unit filename="/home/sodenis/Documents/polimi/Computer Graphics/assignment/A00/headers/glm/detail/type_mat4x2.hpp">
+			<Option target="A00"/>
+		</Unit>
+		<Unit filename="/home/sodenis/Documents/polimi/Computer Graphics/assignment/A00/headers/glm/detail/type_mat4x2.inl">
+			<Option target="A00"/>
+		</Unit>
+		<Unit filename="/home/sodenis/Documents/polimi/Computer Graphics/assignment/A00/headers/glm/detail/type_mat4x3.hpp">
+			<Option target="A00"/>
+		</Unit>
+		<Unit filename="/home/sodenis/Documents/polimi/Computer Graphics/assignment/A00/headers/glm/detail/type_mat4x3.inl">
+			<Option target="A00"/>
+		</Unit>
+		<Unit filename="/home/sodenis/Documents/polimi/Computer Graphics/assignment/A00/headers/glm/detail/type_mat4x4.hpp">
+			<Option target="A00"/>
+		</Unit>
+		<Unit filename="/home/sodenis/Documents/polimi/Computer Graphics/assignment/A00/headers/glm/detail/type_mat4x4.inl">
+			<Option target="A00"/>
+		</Unit>
+		<Unit filename="/home/sodenis/Documents/polimi/Computer Graphics/assignment/A00/headers/glm/detail/type_mat4x4_simd.inl">
+			<Option target="A00"/>
+		</Unit>
+		<Unit filename="/home/sodenis/Documents/polimi/Computer Graphics/assignment/A00/headers/glm/detail/type_quat.hpp">
+			<Option target="A00"/>
+		</Unit>
+		<Unit filename="/home/sodenis/Documents/polimi/Computer Graphics/assignment/A00/headers/glm/detail/type_quat.inl">
+			<Option target="A00"/>
+		</Unit>
+		<Unit filename="/home/sodenis/Documents/polimi/Computer Graphics/assignment/A00/headers/glm/detail/type_quat_simd.inl">
+			<Option target="A00"/>
+		</Unit>
+		<Unit filename="/home/sodenis/Documents/polimi/Computer Graphics/assignment/A00/headers/glm/detail/type_vec1.hpp">
+			<Option target="A00"/>
+		</Unit>
+		<Unit filename="/home/sodenis/Documents/polimi/Computer Graphics/assignment/A00/headers/glm/detail/type_vec1.inl">
+			<Option target="A00"/>
+		</Unit>
+		<Unit filename="/home/sodenis/Documents/polimi/Computer Graphics/assignment/A00/headers/glm/detail/type_vec2.hpp">
+			<Option target="A00"/>
+		</Unit>
+		<Unit filename="/home/sodenis/Documents/polimi/Computer Graphics/assignment/A00/headers/glm/detail/type_vec2.inl">
+			<Option target="A00"/>
+		</Unit>
+		<Unit filename="/home/sodenis/Documents/polimi/Computer Graphics/assignment/A00/headers/glm/detail/type_vec3.hpp">
+			<Option target="A00"/>
+		</Unit>
+		<Unit filename="/home/sodenis/Documents/polimi/Computer Graphics/assignment/A00/headers/glm/detail/type_vec3.inl">
+			<Option target="A00"/>
+		</Unit>
+		<Unit filename="/home/sodenis/Documents/polimi/Computer Graphics/assignment/A00/headers/glm/detail/type_vec4.hpp">
+			<Option target="A00"/>
+		</Unit>
+		<Unit filename="/home/sodenis/Documents/polimi/Computer Graphics/assignment/A00/headers/glm/detail/type_vec4.inl">
+			<Option target="A00"/>
+		</Unit>
+		<Unit filename="/home/sodenis/Documents/polimi/Computer Graphics/assignment/A00/headers/glm/detail/type_vec4_simd.inl">
+			<Option target="A00"/>
+		</Unit>
+		<Unit filename="/home/sodenis/Documents/polimi/Computer Graphics/assignment/A00/headers/glm/exponential.hpp">
+			<Option target="A00"/>
+		</Unit>
+		<Unit filename="/home/sodenis/Documents/polimi/Computer Graphics/assignment/A00/headers/glm/ext.hpp">
+			<Option target="A00"/>
+		</Unit>
+		<Unit filename="/home/sodenis/Documents/polimi/Computer Graphics/assignment/A00/headers/glm/ext/matrix_clip_space.hpp">
+			<Option target="A00"/>
+		</Unit>
+		<Unit filename="/home/sodenis/Documents/polimi/Computer Graphics/assignment/A00/headers/glm/ext/matrix_clip_space.inl">
+			<Option target="A00"/>
+		</Unit>
+		<Unit filename="/home/sodenis/Documents/polimi/Computer Graphics/assignment/A00/headers/glm/ext/matrix_common.hpp">
+			<Option target="A00"/>
+		</Unit>
+		<Unit filename="/home/sodenis/Documents/polimi/Computer Graphics/assignment/A00/headers/glm/ext/matrix_common.inl">
+			<Option target="A00"/>
+		</Unit>
+		<Unit filename="/home/sodenis/Documents/polimi/Computer Graphics/assignment/A00/headers/glm/ext/matrix_double2x2.hpp">
+			<Option target="A00"/>
+		</Unit>
+		<Unit filename="/home/sodenis/Documents/polimi/Computer Graphics/assignment/A00/headers/glm/ext/matrix_double2x2_precision.hpp">
+			<Option target="A00"/>
+		</Unit>
+		<Unit filename="/home/sodenis/Documents/polimi/Computer Graphics/assignment/A00/headers/glm/ext/matrix_double2x3.hpp">
+			<Option target="A00"/>
+		</Unit>
+		<Unit filename="/home/sodenis/Documents/polimi/Computer Graphics/assignment/A00/headers/glm/ext/matrix_double2x3_precision.hpp">
+			<Option target="A00"/>
+		</Unit>
+		<Unit filename="/home/sodenis/Documents/polimi/Computer Graphics/assignment/A00/headers/glm/ext/matrix_double2x4.hpp">
+			<Option target="A00"/>
+		</Unit>
+		<Unit filename="/home/sodenis/Documents/polimi/Computer Graphics/assignment/A00/headers/glm/ext/matrix_double2x4_precision.hpp">
+			<Option target="A00"/>
+		</Unit>
+		<Unit filename="/home/sodenis/Documents/polimi/Computer Graphics/assignment/A00/headers/glm/ext/matrix_double3x2.hpp">
+			<Option target="A00"/>
+		</Unit>
+		<Unit filename="/home/sodenis/Documents/polimi/Computer Graphics/assignment/A00/headers/glm/ext/matrix_double3x2_precision.hpp">
+			<Option target="A00"/>
+		</Unit>
+		<Unit filename="/home/sodenis/Documents/polimi/Computer Graphics/assignment/A00/headers/glm/ext/matrix_double3x3.hpp">
+			<Option target="A00"/>
+		</Unit>
+		<Unit filename="/home/sodenis/Documents/polimi/Computer Graphics/assignment/A00/headers/glm/ext/matrix_double3x3_precision.hpp">
+			<Option target="A00"/>
+		</Unit>
+		<Unit filename="/home/sodenis/Documents/polimi/Computer Graphics/assignment/A00/headers/glm/ext/matrix_double3x4.hpp">
+			<Option target="A00"/>
+		</Unit>
+		<Unit filename="/home/sodenis/Documents/polimi/Computer Graphics/assignment/A00/headers/glm/ext/matrix_double3x4_precision.hpp">
+			<Option target="A00"/>
+		</Unit>
+		<Unit filename="/home/sodenis/Documents/polimi/Computer Graphics/assignment/A00/headers/glm/ext/matrix_double4x2.hpp">
+			<Option target="A00"/>
+		</Unit>
+		<Unit filename="/home/sodenis/Documents/polimi/Computer Graphics/assignment/A00/headers/glm/ext/matrix_double4x2_precision.hpp">
+			<Option target="A00"/>
+		</Unit>
+		<Unit filename="/home/sodenis/Documents/polimi/Computer Graphics/assignment/A00/headers/glm/ext/matrix_double4x3.hpp">
+			<Option target="A00"/>
+		</Unit>
+		<Unit filename="/home/sodenis/Documents/polimi/Computer Graphics/assignment/A00/headers/glm/ext/matrix_double4x3_precision.hpp">
+			<Option target="A00"/>
+		</Unit>
+		<Unit filename="/home/sodenis/Documents/polimi/Computer Graphics/assignment/A00/headers/glm/ext/matrix_double4x4.hpp">
+			<Option target="A00"/>
+		</Unit>
+		<Unit filename="/home/sodenis/Documents/polimi/Computer Graphics/assignment/A00/headers/glm/ext/matrix_double4x4_precision.hpp">
+			<Option target="A00"/>
+		</Unit>
+		<Unit filename="/home/sodenis/Documents/polimi/Computer Graphics/assignment/A00/headers/glm/ext/matrix_float2x2.hpp">
+			<Option target="A00"/>
+		</Unit>
+		<Unit filename="/home/sodenis/Documents/polimi/Computer Graphics/assignment/A00/headers/glm/ext/matrix_float2x2_precision.hpp">
+			<Option target="A00"/>
+		</Unit>
+		<Unit filename="/home/sodenis/Documents/polimi/Computer Graphics/assignment/A00/headers/glm/ext/matrix_float2x3.hpp">
+			<Option target="A00"/>
+		</Unit>
+		<Unit filename="/home/sodenis/Documents/polimi/Computer Graphics/assignment/A00/headers/glm/ext/matrix_float2x3_precision.hpp">
+			<Option target="A00"/>
+		</Unit>
+		<Unit filename="/home/sodenis/Documents/polimi/Computer Graphics/assignment/A00/headers/glm/ext/matrix_float2x4.hpp">
+			<Option target="A00"/>
+		</Unit>
+		<Unit filename="/home/sodenis/Documents/polimi/Computer Graphics/assignment/A00/headers/glm/ext/matrix_float2x4_precision.hpp">
+			<Option target="A00"/>
+		</Unit>
+		<Unit filename="/home/sodenis/Documents/polimi/Computer Graphics/assignment/A00/headers/glm/ext/matrix_float3x2.hpp">
+			<Option target="A00"/>
+		</Unit>
+		<Unit filename="/home/sodenis/Documents/polimi/Computer Graphics/assignment/A00/headers/glm/ext/matrix_float3x2_precision.hpp">
+			<Option target="A00"/>
+		</Unit>
+		<Unit filename="/home/sodenis/Documents/polimi/Computer Graphics/assignment/A00/headers/glm/ext/matrix_float3x3.hpp">
+			<Option target="A00"/>
+		</Unit>
+		<Unit filename="/home/sodenis/Documents/polimi/Computer Graphics/assignment/A00/headers/glm/ext/matrix_float3x3_precision.hpp">
+			<Option target="A00"/>
+		</Unit>
+		<Unit filename="/home/sodenis/Documents/polimi/Computer Graphics/assignment/A00/headers/glm/ext/matrix_float3x4.hpp">
+			<Option target="A00"/>
+		</Unit>
+		<Unit filename="/home/sodenis/Documents/polimi/Computer Graphics/assignment/A00/headers/glm/ext/matrix_float3x4_precision.hpp">
+			<Option target="A00"/>
+		</Unit>
+		<Unit filename="/home/sodenis/Documents/polimi/Computer Graphics/assignment/A00/headers/glm/ext/matrix_float4x2.hpp">
+			<Option target="A00"/>
+		</Unit>
+		<Unit filename="/home/sodenis/Documents/polimi/Computer Graphics/assignment/A00/headers/glm/ext/matrix_float4x2_precision.hpp">
+			<Option target="A00"/>
+		</Unit>
+		<Unit filename="/home/sodenis/Documents/polimi/Computer Graphics/assignment/A00/headers/glm/ext/matrix_float4x3.hpp">
+			<Option target="A00"/>
+		</Unit>
+		<Unit filename="/home/sodenis/Documents/polimi/Computer Graphics/assignment/A00/headers/glm/ext/matrix_float4x3_precision.hpp">
+			<Option target="A00"/>
+		</Unit>
+		<Unit filename="/home/sodenis/Documents/polimi/Computer Graphics/assignment/A00/headers/glm/ext/matrix_float4x4.hpp">
+			<Option target="A00"/>
+		</Unit>
+		<Unit filename="/home/sodenis/Documents/polimi/Computer Graphics/assignment/A00/headers/glm/ext/matrix_float4x4_precision.hpp">
+			<Option target="A00"/>
+		</Unit>
+		<Unit filename="/home/sodenis/Documents/polimi/Computer Graphics/assignment/A00/headers/glm/ext/matrix_projection.hpp">
+			<Option target="A00"/>
+		</Unit>
+		<Unit filename="/home/sodenis/Documents/polimi/Computer Graphics/assignment/A00/headers/glm/ext/matrix_projection.inl">
+			<Option target="A00"/>
+		</Unit>
+		<Unit filename="/home/sodenis/Documents/polimi/Computer Graphics/assignment/A00/headers/glm/ext/matrix_relational.hpp">
+			<Option target="A00"/>
+		</Unit>
+		<Unit filename="/home/sodenis/Documents/polimi/Computer Graphics/assignment/A00/headers/glm/ext/matrix_relational.inl">
+			<Option target="A00"/>
+		</Unit>
+		<Unit filename="/home/sodenis/Documents/polimi/Computer Graphics/assignment/A00/headers/glm/ext/matrix_transform.hpp">
+			<Option target="A00"/>
+		</Unit>
+		<Unit filename="/home/sodenis/Documents/polimi/Computer Graphics/assignment/A00/headers/glm/ext/matrix_transform.inl">
+			<Option target="A00"/>
+		</Unit>
+		<Unit filename="/home/sodenis/Documents/polimi/Computer Graphics/assignment/A00/headers/glm/ext/quaternion_common.hpp">
+			<Option target="A00"/>
+		</Unit>
+		<Unit filename="/home/sodenis/Documents/polimi/Computer Graphics/assignment/A00/headers/glm/ext/quaternion_common.inl">
+			<Option target="A00"/>
+		</Unit>
+		<Unit filename="/home/sodenis/Documents/polimi/Computer Graphics/assignment/A00/headers/glm/ext/quaternion_common_simd.inl">
+			<Option target="A00"/>
+		</Unit>
+		<Unit filename="/home/sodenis/Documents/polimi/Computer Graphics/assignment/A00/headers/glm/ext/quaternion_double.hpp">
+			<Option target="A00"/>
+		</Unit>
+		<Unit filename="/home/sodenis/Documents/polimi/Computer Graphics/assignment/A00/headers/glm/ext/quaternion_double_precision.hpp">
+			<Option target="A00"/>
+		</Unit>
+		<Unit filename="/home/sodenis/Documents/polimi/Computer Graphics/assignment/A00/headers/glm/ext/quaternion_exponential.hpp">
+			<Option target="A00"/>
+		</Unit>
+		<Unit filename="/home/sodenis/Documents/polimi/Computer Graphics/assignment/A00/headers/glm/ext/quaternion_exponential.inl">
+			<Option target="A00"/>
+		</Unit>
+		<Unit filename="/home/sodenis/Documents/polimi/Computer Graphics/assignment/A00/headers/glm/ext/quaternion_float.hpp">
+			<Option target="A00"/>
+		</Unit>
+		<Unit filename="/home/sodenis/Documents/polimi/Computer Graphics/assignment/A00/headers/glm/ext/quaternion_float_precision.hpp">
+			<Option target="A00"/>
+		</Unit>
+		<Unit filename="/home/sodenis/Documents/polimi/Computer Graphics/assignment/A00/headers/glm/ext/quaternion_geometric.hpp">
+			<Option target="A00"/>
+		</Unit>
+		<Unit filename="/home/sodenis/Documents/polimi/Computer Graphics/assignment/A00/headers/glm/ext/quaternion_geometric.inl">
+			<Option target="A00"/>
+		</Unit>
+		<Unit filename="/home/sodenis/Documents/polimi/Computer Graphics/assignment/A00/headers/glm/ext/quaternion_relational.hpp">
+			<Option target="A00"/>
+		</Unit>
+		<Unit filename="/home/sodenis/Documents/polimi/Computer Graphics/assignment/A00/headers/glm/ext/quaternion_relational.inl">
+			<Option target="A00"/>
+		</Unit>
+		<Unit filename="/home/sodenis/Documents/polimi/Computer Graphics/assignment/A00/headers/glm/ext/quaternion_transform.hpp">
+			<Option target="A00"/>
+		</Unit>
+		<Unit filename="/home/sodenis/Documents/polimi/Computer Graphics/assignment/A00/headers/glm/ext/quaternion_transform.inl">
+			<Option target="A00"/>
+		</Unit>
+		<Unit filename="/home/sodenis/Documents/polimi/Computer Graphics/assignment/A00/headers/glm/ext/quaternion_trigonometric.hpp">
+			<Option target="A00"/>
+		</Unit>
+		<Unit filename="/home/sodenis/Documents/polimi/Computer Graphics/assignment/A00/headers/glm/ext/quaternion_trigonometric.inl">
+			<Option target="A00"/>
+		</Unit>
+		<Unit filename="/home/sodenis/Documents/polimi/Computer Graphics/assignment/A00/headers/glm/ext/scalar_common.hpp">
+			<Option target="A00"/>
+		</Unit>
+		<Unit filename="/home/sodenis/Documents/polimi/Computer Graphics/assignment/A00/headers/glm/ext/scalar_common.inl">
+			<Option target="A00"/>
+		</Unit>
+		<Unit filename="/home/sodenis/Documents/polimi/Computer Graphics/assignment/A00/headers/glm/ext/scalar_constants.hpp">
+			<Option target="A00"/>
+		</Unit>
+		<Unit filename="/home/sodenis/Documents/polimi/Computer Graphics/assignment/A00/headers/glm/ext/scalar_constants.inl">
+			<Option target="A00"/>
+		</Unit>
+		<Unit filename="/home/sodenis/Documents/polimi/Computer Graphics/assignment/A00/headers/glm/ext/scalar_int_sized.hpp">
+			<Option target="A00"/>
+		</Unit>
+		<Unit filename="/home/sodenis/Documents/polimi/Computer Graphics/assignment/A00/headers/glm/ext/scalar_relational.hpp">
+			<Option target="A00"/>
+		</Unit>
+		<Unit filename="/home/sodenis/Documents/polimi/Computer Graphics/assignment/A00/headers/glm/ext/scalar_relational.inl">
+			<Option target="A00"/>
+		</Unit>
+		<Unit filename="/home/sodenis/Documents/polimi/Computer Graphics/assignment/A00/headers/glm/ext/scalar_uint_sized.hpp">
+			<Option target="A00"/>
+		</Unit>
+		<Unit filename="/home/sodenis/Documents/polimi/Computer Graphics/assignment/A00/headers/glm/ext/scalar_ulp.hpp">
+			<Option target="A00"/>
+		</Unit>
+		<Unit filename="/home/sodenis/Documents/polimi/Computer Graphics/assignment/A00/headers/glm/ext/scalar_ulp.inl">
+			<Option target="A00"/>
+		</Unit>
+		<Unit filename="/home/sodenis/Documents/polimi/Computer Graphics/assignment/A00/headers/glm/ext/vector_bool1.hpp">
+			<Option target="A00"/>
+		</Unit>
+		<Unit filename="/home/sodenis/Documents/polimi/Computer Graphics/assignment/A00/headers/glm/ext/vector_bool1_precision.hpp">
+			<Option target="A00"/>
+		</Unit>
+		<Unit filename="/home/sodenis/Documents/polimi/Computer Graphics/assignment/A00/headers/glm/ext/vector_bool2.hpp">
+			<Option target="A00"/>
+		</Unit>
+		<Unit filename="/home/sodenis/Documents/polimi/Computer Graphics/assignment/A00/headers/glm/ext/vector_bool2_precision.hpp">
+			<Option target="A00"/>
+		</Unit>
+		<Unit filename="/home/sodenis/Documents/polimi/Computer Graphics/assignment/A00/headers/glm/ext/vector_bool3.hpp">
+			<Option target="A00"/>
+		</Unit>
+		<Unit filename="/home/sodenis/Documents/polimi/Computer Graphics/assignment/A00/headers/glm/ext/vector_bool3_precision.hpp">
+			<Option target="A00"/>
+		</Unit>
+		<Unit filename="/home/sodenis/Documents/polimi/Computer Graphics/assignment/A00/headers/glm/ext/vector_bool4.hpp">
+			<Option target="A00"/>
+		</Unit>
+		<Unit filename="/home/sodenis/Documents/polimi/Computer Graphics/assignment/A00/headers/glm/ext/vector_bool4_precision.hpp">
+			<Option target="A00"/>
+		</Unit>
+		<Unit filename="/home/sodenis/Documents/polimi/Computer Graphics/assignment/A00/headers/glm/ext/vector_common.hpp">
+			<Option target="A00"/>
+		</Unit>
+		<Unit filename="/home/sodenis/Documents/polimi/Computer Graphics/assignment/A00/headers/glm/ext/vector_common.inl">
+			<Option target="A00"/>
+		</Unit>
+		<Unit filename="/home/sodenis/Documents/polimi/Computer Graphics/assignment/A00/headers/glm/ext/vector_double1.hpp">
+			<Option target="A00"/>
+		</Unit>
+		<Unit filename="/home/sodenis/Documents/polimi/Computer Graphics/assignment/A00/headers/glm/ext/vector_double1_precision.hpp">
+			<Option target="A00"/>
+		</Unit>
+		<Unit filename="/home/sodenis/Documents/polimi/Computer Graphics/assignment/A00/headers/glm/ext/vector_double2.hpp">
+			<Option target="A00"/>
+		</Unit>
+		<Unit filename="/home/sodenis/Documents/polimi/Computer Graphics/assignment/A00/headers/glm/ext/vector_double2_precision.hpp">
+			<Option target="A00"/>
+		</Unit>
+		<Unit filename="/home/sodenis/Documents/polimi/Computer Graphics/assignment/A00/headers/glm/ext/vector_double3.hpp">
+			<Option target="A00"/>
+		</Unit>
+		<Unit filename="/home/sodenis/Documents/polimi/Computer Graphics/assignment/A00/headers/glm/ext/vector_double3_precision.hpp">
+			<Option target="A00"/>
+		</Unit>
+		<Unit filename="/home/sodenis/Documents/polimi/Computer Graphics/assignment/A00/headers/glm/ext/vector_double4.hpp">
+			<Option target="A00"/>
+		</Unit>
+		<Unit filename="/home/sodenis/Documents/polimi/Computer Graphics/assignment/A00/headers/glm/ext/vector_double4_precision.hpp">
+			<Option target="A00"/>
+		</Unit>
+		<Unit filename="/home/sodenis/Documents/polimi/Computer Graphics/assignment/A00/headers/glm/ext/vector_float1.hpp">
+			<Option target="A00"/>
+		</Unit>
+		<Unit filename="/home/sodenis/Documents/polimi/Computer Graphics/assignment/A00/headers/glm/ext/vector_float1_precision.hpp">
+			<Option target="A00"/>
+		</Unit>
+		<Unit filename="/home/sodenis/Documents/polimi/Computer Graphics/assignment/A00/headers/glm/ext/vector_float2.hpp">
+			<Option target="A00"/>
+		</Unit>
+		<Unit filename="/home/sodenis/Documents/polimi/Computer Graphics/assignment/A00/headers/glm/ext/vector_float2_precision.hpp">
+			<Option target="A00"/>
+		</Unit>
+		<Unit filename="/home/sodenis/Documents/polimi/Computer Graphics/assignment/A00/headers/glm/ext/vector_float3.hpp">
+			<Option target="A00"/>
+		</Unit>
+		<Unit filename="/home/sodenis/Documents/polimi/Computer Graphics/assignment/A00/headers/glm/ext/vector_float3_precision.hpp">
+			<Option target="A00"/>
+		</Unit>
+		<Unit filename="/home/sodenis/Documents/polimi/Computer Graphics/assignment/A00/headers/glm/ext/vector_float4.hpp">
+			<Option target="A00"/>
+		</Unit>
+		<Unit filename="/home/sodenis/Documents/polimi/Computer Graphics/assignment/A00/headers/glm/ext/vector_float4_precision.hpp">
+			<Option target="A00"/>
+		</Unit>
+		<Unit filename="/home/sodenis/Documents/polimi/Computer Graphics/assignment/A00/headers/glm/ext/vector_int1.hpp">
+			<Option target="A00"/>
+		</Unit>
+		<Unit filename="/home/sodenis/Documents/polimi/Computer Graphics/assignment/A00/headers/glm/ext/vector_int1_precision.hpp">
+			<Option target="A00"/>
+		</Unit>
+		<Unit filename="/home/sodenis/Documents/polimi/Computer Graphics/assignment/A00/headers/glm/ext/vector_int2.hpp">
+			<Option target="A00"/>
+		</Unit>
+		<Unit filename="/home/sodenis/Documents/polimi/Computer Graphics/assignment/A00/headers/glm/ext/vector_int2_precision.hpp">
+			<Option target="A00"/>
+		</Unit>
+		<Unit filename="/home/sodenis/Documents/polimi/Computer Graphics/assignment/A00/headers/glm/ext/vector_int3.hpp">
+			<Option target="A00"/>
+		</Unit>
+		<Unit filename="/home/sodenis/Documents/polimi/Computer Graphics/assignment/A00/headers/glm/ext/vector_int3_precision.hpp">
+			<Option target="A00"/>
+		</Unit>
+		<Unit filename="/home/sodenis/Documents/polimi/Computer Graphics/assignment/A00/headers/glm/ext/vector_int4.hpp">
+			<Option target="A00"/>
+		</Unit>
+		<Unit filename="/home/sodenis/Documents/polimi/Computer Graphics/assignment/A00/headers/glm/ext/vector_int4_precision.hpp">
+			<Option target="A00"/>
+		</Unit>
+		<Unit filename="/home/sodenis/Documents/polimi/Computer Graphics/assignment/A00/headers/glm/ext/vector_relational.hpp">
+			<Option target="A00"/>
+		</Unit>
+		<Unit filename="/home/sodenis/Documents/polimi/Computer Graphics/assignment/A00/headers/glm/ext/vector_relational.inl">
+			<Option target="A00"/>
+		</Unit>
+		<Unit filename="/home/sodenis/Documents/polimi/Computer Graphics/assignment/A00/headers/glm/ext/vector_uint1.hpp">
+			<Option target="A00"/>
+		</Unit>
+		<Unit filename="/home/sodenis/Documents/polimi/Computer Graphics/assignment/A00/headers/glm/ext/vector_uint1_precision.hpp">
+			<Option target="A00"/>
+		</Unit>
+		<Unit filename="/home/sodenis/Documents/polimi/Computer Graphics/assignment/A00/headers/glm/ext/vector_uint2.hpp">
+			<Option target="A00"/>
+		</Unit>
+		<Unit filename="/home/sodenis/Documents/polimi/Computer Graphics/assignment/A00/headers/glm/ext/vector_uint2_precision.hpp">
+			<Option target="A00"/>
+		</Unit>
+		<Unit filename="/home/sodenis/Documents/polimi/Computer Graphics/assignment/A00/headers/glm/ext/vector_uint3.hpp">
+			<Option target="A00"/>
+		</Unit>
+		<Unit filename="/home/sodenis/Documents/polimi/Computer Graphics/assignment/A00/headers/glm/ext/vector_uint3_precision.hpp">
+			<Option target="A00"/>
+		</Unit>
+		<Unit filename="/home/sodenis/Documents/polimi/Computer Graphics/assignment/A00/headers/glm/ext/vector_uint4.hpp">
+			<Option target="A00"/>
+		</Unit>
+		<Unit filename="/home/sodenis/Documents/polimi/Computer Graphics/assignment/A00/headers/glm/ext/vector_uint4_precision.hpp">
+			<Option target="A00"/>
+		</Unit>
+		<Unit filename="/home/sodenis/Documents/polimi/Computer Graphics/assignment/A00/headers/glm/ext/vector_ulp.hpp">
+			<Option target="A00"/>
+		</Unit>
+		<Unit filename="/home/sodenis/Documents/polimi/Computer Graphics/assignment/A00/headers/glm/ext/vector_ulp.inl">
+			<Option target="A00"/>
+		</Unit>
+		<Unit filename="/home/sodenis/Documents/polimi/Computer Graphics/assignment/A00/headers/glm/fwd.hpp">
+			<Option target="A00"/>
+		</Unit>
+		<Unit filename="/home/sodenis/Documents/polimi/Computer Graphics/assignment/A00/headers/glm/geometric.hpp">
+			<Option target="A00"/>
+		</Unit>
+		<Unit filename="/home/sodenis/Documents/polimi/Computer Graphics/assignment/A00/headers/glm/glm.hpp">
+			<Option target="A00"/>
+		</Unit>
+		<Unit filename="/home/sodenis/Documents/polimi/Computer Graphics/assignment/A00/headers/glm/gtc/bitfield.hpp">
+			<Option target="A00"/>
+		</Unit>
+		<Unit filename="/home/sodenis/Documents/polimi/Computer Graphics/assignment/A00/headers/glm/gtc/bitfield.inl">
+			<Option target="A00"/>
+		</Unit>
+		<Unit filename="/home/sodenis/Documents/polimi/Computer Graphics/assignment/A00/headers/glm/gtc/color_space.hpp">
+			<Option target="A00"/>
+		</Unit>
+		<Unit filename="/home/sodenis/Documents/polimi/Computer Graphics/assignment/A00/headers/glm/gtc/color_space.inl">
+			<Option target="A00"/>
+		</Unit>
+		<Unit filename="/home/sodenis/Documents/polimi/Computer Graphics/assignment/A00/headers/glm/gtc/constants.hpp">
+			<Option target="A00"/>
+		</Unit>
+		<Unit filename="/home/sodenis/Documents/polimi/Computer Graphics/assignment/A00/headers/glm/gtc/constants.inl">
+			<Option target="A00"/>
+		</Unit>
+		<Unit filename="/home/sodenis/Documents/polimi/Computer Graphics/assignment/A00/headers/glm/gtc/epsilon.hpp">
+			<Option target="A00"/>
+		</Unit>
+		<Unit filename="/home/sodenis/Documents/polimi/Computer Graphics/assignment/A00/headers/glm/gtc/epsilon.inl">
+			<Option target="A00"/>
+		</Unit>
+		<Unit filename="/home/sodenis/Documents/polimi/Computer Graphics/assignment/A00/headers/glm/gtc/integer.hpp">
+			<Option target="A00"/>
+		</Unit>
+		<Unit filename="/home/sodenis/Documents/polimi/Computer Graphics/assignment/A00/headers/glm/gtc/integer.inl">
+			<Option target="A00"/>
+		</Unit>
+		<Unit filename="/home/sodenis/Documents/polimi/Computer Graphics/assignment/A00/headers/glm/gtc/matrix_access.hpp">
+			<Option target="A00"/>
+		</Unit>
+		<Unit filename="/home/sodenis/Documents/polimi/Computer Graphics/assignment/A00/headers/glm/gtc/matrix_access.inl">
+			<Option target="A00"/>
+		</Unit>
+		<Unit filename="/home/sodenis/Documents/polimi/Computer Graphics/assignment/A00/headers/glm/gtc/matrix_integer.hpp">
+			<Option target="A00"/>
+		</Unit>
+		<Unit filename="/home/sodenis/Documents/polimi/Computer Graphics/assignment/A00/headers/glm/gtc/matrix_inverse.hpp">
+			<Option target="A00"/>
+		</Unit>
+		<Unit filename="/home/sodenis/Documents/polimi/Computer Graphics/assignment/A00/headers/glm/gtc/matrix_inverse.inl">
+			<Option target="A00"/>
+		</Unit>
+		<Unit filename="/home/sodenis/Documents/polimi/Computer Graphics/assignment/A00/headers/glm/gtc/matrix_transform.hpp">
+			<Option target="A00"/>
+		</Unit>
+		<Unit filename="/home/sodenis/Documents/polimi/Computer Graphics/assignment/A00/headers/glm/gtc/matrix_transform.inl">
+			<Option target="A00"/>
+		</Unit>
+		<Unit filename="/home/sodenis/Documents/polimi/Computer Graphics/assignment/A00/headers/glm/gtc/noise.hpp">
+			<Option target="A00"/>
+		</Unit>
+		<Unit filename="/home/sodenis/Documents/polimi/Computer Graphics/assignment/A00/headers/glm/gtc/noise.inl">
+			<Option target="A00"/>
+		</Unit>
+		<Unit filename="/home/sodenis/Documents/polimi/Computer Graphics/assignment/A00/headers/glm/gtc/packing.hpp">
+			<Option target="A00"/>
+		</Unit>
+		<Unit filename="/home/sodenis/Documents/polimi/Computer Graphics/assignment/A00/headers/glm/gtc/packing.inl">
+			<Option target="A00"/>
+		</Unit>
+		<Unit filename="/home/sodenis/Documents/polimi/Computer Graphics/assignment/A00/headers/glm/gtc/quaternion.hpp">
+			<Option target="A00"/>
+		</Unit>
+		<Unit filename="/home/sodenis/Documents/polimi/Computer Graphics/assignment/A00/headers/glm/gtc/quaternion.inl">
+			<Option target="A00"/>
+		</Unit>
+		<Unit filename="/home/sodenis/Documents/polimi/Computer Graphics/assignment/A00/headers/glm/gtc/quaternion_simd.inl">
+			<Option target="A00"/>
+		</Unit>
+		<Unit filename="/home/sodenis/Documents/polimi/Computer Graphics/assignment/A00/headers/glm/gtc/random.hpp">
+			<Option target="A00"/>
+		</Unit>
+		<Unit filename="/home/sodenis/Documents/polimi/Computer Graphics/assignment/A00/headers/glm/gtc/random.inl">
+			<Option target="A00"/>
+		</Unit>
+		<Unit filename="/home/sodenis/Documents/polimi/Computer Graphics/assignment/A00/headers/glm/gtc/reciprocal.hpp">
+			<Option target="A00"/>
+		</Unit>
+		<Unit filename="/home/sodenis/Documents/polimi/Computer Graphics/assignment/A00/headers/glm/gtc/reciprocal.inl">
+			<Option target="A00"/>
+		</Unit>
+		<Unit filename="/home/sodenis/Documents/polimi/Computer Graphics/assignment/A00/headers/glm/gtc/round.hpp">
+			<Option target="A00"/>
+		</Unit>
+		<Unit filename="/home/sodenis/Documents/polimi/Computer Graphics/assignment/A00/headers/glm/gtc/round.inl">
+			<Option target="A00"/>
+		</Unit>
+		<Unit filename="/home/sodenis/Documents/polimi/Computer Graphics/assignment/A00/headers/glm/gtc/type_aligned.hpp">
+			<Option target="A00"/>
+		</Unit>
+		<Unit filename="/home/sodenis/Documents/polimi/Computer Graphics/assignment/A00/headers/glm/gtc/type_precision.hpp">
+			<Option target="A00"/>
+		</Unit>
+		<Unit filename="/home/sodenis/Documents/polimi/Computer Graphics/assignment/A00/headers/glm/gtc/type_precision.inl">
+			<Option target="A00"/>
+		</Unit>
+		<Unit filename="/home/sodenis/Documents/polimi/Computer Graphics/assignment/A00/headers/glm/gtc/type_ptr.hpp">
+			<Option target="A00"/>
+		</Unit>
+		<Unit filename="/home/sodenis/Documents/polimi/Computer Graphics/assignment/A00/headers/glm/gtc/type_ptr.inl">
+			<Option target="A00"/>
+		</Unit>
+		<Unit filename="/home/sodenis/Documents/polimi/Computer Graphics/assignment/A00/headers/glm/gtc/ulp.hpp">
+			<Option target="A00"/>
+		</Unit>
+		<Unit filename="/home/sodenis/Documents/polimi/Computer Graphics/assignment/A00/headers/glm/gtc/ulp.inl">
+			<Option target="A00"/>
+		</Unit>
+		<Unit filename="/home/sodenis/Documents/polimi/Computer Graphics/assignment/A00/headers/glm/gtc/vec1.hpp">
+			<Option target="A00"/>
+		</Unit>
+		<Unit filename="/home/sodenis/Documents/polimi/Computer Graphics/assignment/A00/headers/glm/gtx/associated_min_max.hpp">
+			<Option target="A00"/>
+		</Unit>
+		<Unit filename="/home/sodenis/Documents/polimi/Computer Graphics/assignment/A00/headers/glm/gtx/associated_min_max.inl">
+			<Option target="A00"/>
+		</Unit>
+		<Unit filename="/home/sodenis/Documents/polimi/Computer Graphics/assignment/A00/headers/glm/gtx/bit.hpp">
+			<Option target="A00"/>
+		</Unit>
+		<Unit filename="/home/sodenis/Documents/polimi/Computer Graphics/assignment/A00/headers/glm/gtx/bit.inl">
+			<Option target="A00"/>
+		</Unit>
+		<Unit filename="/home/sodenis/Documents/polimi/Computer Graphics/assignment/A00/headers/glm/gtx/closest_point.hpp">
+			<Option target="A00"/>
+		</Unit>
+		<Unit filename="/home/sodenis/Documents/polimi/Computer Graphics/assignment/A00/headers/glm/gtx/closest_point.inl">
+			<Option target="A00"/>
+		</Unit>
+		<Unit filename="/home/sodenis/Documents/polimi/Computer Graphics/assignment/A00/headers/glm/gtx/color_encoding.hpp">
+			<Option target="A00"/>
+		</Unit>
+		<Unit filename="/home/sodenis/Documents/polimi/Computer Graphics/assignment/A00/headers/glm/gtx/color_encoding.inl">
+			<Option target="A00"/>
+		</Unit>
+		<Unit filename="/home/sodenis/Documents/polimi/Computer Graphics/assignment/A00/headers/glm/gtx/color_space.hpp">
+			<Option target="A00"/>
+		</Unit>
+		<Unit filename="/home/sodenis/Documents/polimi/Computer Graphics/assignment/A00/headers/glm/gtx/color_space.inl">
+			<Option target="A00"/>
+		</Unit>
+		<Unit filename="/home/sodenis/Documents/polimi/Computer Graphics/assignment/A00/headers/glm/gtx/color_space_YCoCg.hpp">
+			<Option target="A00"/>
+		</Unit>
+		<Unit filename="/home/sodenis/Documents/polimi/Computer Graphics/assignment/A00/headers/glm/gtx/color_space_YCoCg.inl">
+			<Option target="A00"/>
+		</Unit>
+		<Unit filename="/home/sodenis/Documents/polimi/Computer Graphics/assignment/A00/headers/glm/gtx/common.hpp">
+			<Option target="A00"/>
+		</Unit>
+		<Unit filename="/home/sodenis/Documents/polimi/Computer Graphics/assignment/A00/headers/glm/gtx/common.inl">
+			<Option target="A00"/>
+		</Unit>
+		<Unit filename="/home/sodenis/Documents/polimi/Computer Graphics/assignment/A00/headers/glm/gtx/compatibility.hpp">
+			<Option target="A00"/>
+		</Unit>
+		<Unit filename="/home/sodenis/Documents/polimi/Computer Graphics/assignment/A00/headers/glm/gtx/compatibility.inl">
+			<Option target="A00"/>
+		</Unit>
+		<Unit filename="/home/sodenis/Documents/polimi/Computer Graphics/assignment/A00/headers/glm/gtx/component_wise.hpp">
+			<Option target="A00"/>
+		</Unit>
+		<Unit filename="/home/sodenis/Documents/polimi/Computer Graphics/assignment/A00/headers/glm/gtx/component_wise.inl">
+			<Option target="A00"/>
+		</Unit>
+		<Unit filename="/home/sodenis/Documents/polimi/Computer Graphics/assignment/A00/headers/glm/gtx/dual_quaternion.hpp">
+			<Option target="A00"/>
+		</Unit>
+		<Unit filename="/home/sodenis/Documents/polimi/Computer Graphics/assignment/A00/headers/glm/gtx/dual_quaternion.inl">
+			<Option target="A00"/>
+		</Unit>
+		<Unit filename="/home/sodenis/Documents/polimi/Computer Graphics/assignment/A00/headers/glm/gtx/easing.hpp">
+			<Option target="A00"/>
+		</Unit>
+		<Unit filename="/home/sodenis/Documents/polimi/Computer Graphics/assignment/A00/headers/glm/gtx/easing.inl">
+			<Option target="A00"/>
+		</Unit>
+		<Unit filename="/home/sodenis/Documents/polimi/Computer Graphics/assignment/A00/headers/glm/gtx/euler_angles.hpp">
+			<Option target="A00"/>
+		</Unit>
+		<Unit filename="/home/sodenis/Documents/polimi/Computer Graphics/assignment/A00/headers/glm/gtx/euler_angles.inl">
+			<Option target="A00"/>
+		</Unit>
+		<Unit filename="/home/sodenis/Documents/polimi/Computer Graphics/assignment/A00/headers/glm/gtx/extend.hpp">
+			<Option target="A00"/>
+		</Unit>
+		<Unit filename="/home/sodenis/Documents/polimi/Computer Graphics/assignment/A00/headers/glm/gtx/extend.inl">
+			<Option target="A00"/>
+		</Unit>
+		<Unit filename="/home/sodenis/Documents/polimi/Computer Graphics/assignment/A00/headers/glm/gtx/extended_min_max.hpp">
+			<Option target="A00"/>
+		</Unit>
+		<Unit filename="/home/sodenis/Documents/polimi/Computer Graphics/assignment/A00/headers/glm/gtx/extended_min_max.inl">
+			<Option target="A00"/>
+		</Unit>
+		<Unit filename="/home/sodenis/Documents/polimi/Computer Graphics/assignment/A00/headers/glm/gtx/exterior_product.hpp">
+			<Option target="A00"/>
+		</Unit>
+		<Unit filename="/home/sodenis/Documents/polimi/Computer Graphics/assignment/A00/headers/glm/gtx/exterior_product.inl">
+			<Option target="A00"/>
+		</Unit>
+		<Unit filename="/home/sodenis/Documents/polimi/Computer Graphics/assignment/A00/headers/glm/gtx/fast_exponential.hpp">
+			<Option target="A00"/>
+		</Unit>
+		<Unit filename="/home/sodenis/Documents/polimi/Computer Graphics/assignment/A00/headers/glm/gtx/fast_exponential.inl">
+			<Option target="A00"/>
+		</Unit>
+		<Unit filename="/home/sodenis/Documents/polimi/Computer Graphics/assignment/A00/headers/glm/gtx/fast_square_root.hpp">
+			<Option target="A00"/>
+		</Unit>
+		<Unit filename="/home/sodenis/Documents/polimi/Computer Graphics/assignment/A00/headers/glm/gtx/fast_square_root.inl">
+			<Option target="A00"/>
+		</Unit>
+		<Unit filename="/home/sodenis/Documents/polimi/Computer Graphics/assignment/A00/headers/glm/gtx/fast_trigonometry.hpp">
+			<Option target="A00"/>
+		</Unit>
+		<Unit filename="/home/sodenis/Documents/polimi/Computer Graphics/assignment/A00/headers/glm/gtx/fast_trigonometry.inl">
+			<Option target="A00"/>
+		</Unit>
+		<Unit filename="/home/sodenis/Documents/polimi/Computer Graphics/assignment/A00/headers/glm/gtx/float_notmalize.inl">
+			<Option target="A00"/>
+		</Unit>
+		<Unit filename="/home/sodenis/Documents/polimi/Computer Graphics/assignment/A00/headers/glm/gtx/functions.hpp">
+			<Option target="A00"/>
+		</Unit>
+		<Unit filename="/home/sodenis/Documents/polimi/Computer Graphics/assignment/A00/headers/glm/gtx/functions.inl">
+			<Option target="A00"/>
+		</Unit>
+		<Unit filename="/home/sodenis/Documents/polimi/Computer Graphics/assignment/A00/headers/glm/gtx/gradient_paint.hpp">
+			<Option target="A00"/>
+		</Unit>
+		<Unit filename="/home/sodenis/Documents/polimi/Computer Graphics/assignment/A00/headers/glm/gtx/gradient_paint.inl">
+			<Option target="A00"/>
+		</Unit>
+		<Unit filename="/home/sodenis/Documents/polimi/Computer Graphics/assignment/A00/headers/glm/gtx/handed_coordinate_space.hpp">
+			<Option target="A00"/>
+		</Unit>
+		<Unit filename="/home/sodenis/Documents/polimi/Computer Graphics/assignment/A00/headers/glm/gtx/handed_coordinate_space.inl">
+			<Option target="A00"/>
+		</Unit>
+		<Unit filename="/home/sodenis/Documents/polimi/Computer Graphics/assignment/A00/headers/glm/gtx/hash.hpp">
+			<Option target="A00"/>
+		</Unit>
+		<Unit filename="/home/sodenis/Documents/polimi/Computer Graphics/assignment/A00/headers/glm/gtx/hash.inl">
+			<Option target="A00"/>
+		</Unit>
+		<Unit filename="/home/sodenis/Documents/polimi/Computer Graphics/assignment/A00/headers/glm/gtx/integer.hpp">
+			<Option target="A00"/>
+		</Unit>
+		<Unit filename="/home/sodenis/Documents/polimi/Computer Graphics/assignment/A00/headers/glm/gtx/integer.inl">
+			<Option target="A00"/>
+		</Unit>
+		<Unit filename="/home/sodenis/Documents/polimi/Computer Graphics/assignment/A00/headers/glm/gtx/intersect.hpp">
+			<Option target="A00"/>
+		</Unit>
+		<Unit filename="/home/sodenis/Documents/polimi/Computer Graphics/assignment/A00/headers/glm/gtx/intersect.inl">
+			<Option target="A00"/>
+		</Unit>
+		<Unit filename="/home/sodenis/Documents/polimi/Computer Graphics/assignment/A00/headers/glm/gtx/io.hpp">
+			<Option target="A00"/>
+		</Unit>
+		<Unit filename="/home/sodenis/Documents/polimi/Computer Graphics/assignment/A00/headers/glm/gtx/io.inl">
+			<Option target="A00"/>
+		</Unit>
+		<Unit filename="/home/sodenis/Documents/polimi/Computer Graphics/assignment/A00/headers/glm/gtx/log_base.hpp">
+			<Option target="A00"/>
+		</Unit>
+		<Unit filename="/home/sodenis/Documents/polimi/Computer Graphics/assignment/A00/headers/glm/gtx/log_base.inl">
+			<Option target="A00"/>
+		</Unit>
+		<Unit filename="/home/sodenis/Documents/polimi/Computer Graphics/assignment/A00/headers/glm/gtx/matrix_cross_product.hpp">
+			<Option target="A00"/>
+		</Unit>
+		<Unit filename="/home/sodenis/Documents/polimi/Computer Graphics/assignment/A00/headers/glm/gtx/matrix_cross_product.inl">
+			<Option target="A00"/>
+		</Unit>
+		<Unit filename="/home/sodenis/Documents/polimi/Computer Graphics/assignment/A00/headers/glm/gtx/matrix_decompose.hpp">
+			<Option target="A00"/>
+		</Unit>
+		<Unit filename="/home/sodenis/Documents/polimi/Computer Graphics/assignment/A00/headers/glm/gtx/matrix_decompose.inl">
+			<Option target="A00"/>
+		</Unit>
+		<Unit filename="/home/sodenis/Documents/polimi/Computer Graphics/assignment/A00/headers/glm/gtx/matrix_factorisation.hpp">
+			<Option target="A00"/>
+		</Unit>
+		<Unit filename="/home/sodenis/Documents/polimi/Computer Graphics/assignment/A00/headers/glm/gtx/matrix_factorisation.inl">
+			<Option target="A00"/>
+		</Unit>
+		<Unit filename="/home/sodenis/Documents/polimi/Computer Graphics/assignment/A00/headers/glm/gtx/matrix_interpolation.hpp">
+			<Option target="A00"/>
+		</Unit>
+		<Unit filename="/home/sodenis/Documents/polimi/Computer Graphics/assignment/A00/headers/glm/gtx/matrix_interpolation.inl">
+			<Option target="A00"/>
+		</Unit>
+		<Unit filename="/home/sodenis/Documents/polimi/Computer Graphics/assignment/A00/headers/glm/gtx/matrix_major_storage.hpp">
+			<Option target="A00"/>
+		</Unit>
+		<Unit filename="/home/sodenis/Documents/polimi/Computer Graphics/assignment/A00/headers/glm/gtx/matrix_major_storage.inl">
+			<Option target="A00"/>
+		</Unit>
+		<Unit filename="/home/sodenis/Documents/polimi/Computer Graphics/assignment/A00/headers/glm/gtx/matrix_operation.hpp">
+			<Option target="A00"/>
+		</Unit>
+		<Unit filename="/home/sodenis/Documents/polimi/Computer Graphics/assignment/A00/headers/glm/gtx/matrix_operation.inl">
+			<Option target="A00"/>
+		</Unit>
+		<Unit filename="/home/sodenis/Documents/polimi/Computer Graphics/assignment/A00/headers/glm/gtx/matrix_query.hpp">
+			<Option target="A00"/>
+		</Unit>
+		<Unit filename="/home/sodenis/Documents/polimi/Computer Graphics/assignment/A00/headers/glm/gtx/matrix_query.inl">
+			<Option target="A00"/>
+		</Unit>
+		<Unit filename="/home/sodenis/Documents/polimi/Computer Graphics/assignment/A00/headers/glm/gtx/matrix_transform_2d.hpp">
+			<Option target="A00"/>
+		</Unit>
+		<Unit filename="/home/sodenis/Documents/polimi/Computer Graphics/assignment/A00/headers/glm/gtx/matrix_transform_2d.inl">
+			<Option target="A00"/>
+		</Unit>
+		<Unit filename="/home/sodenis/Documents/polimi/Computer Graphics/assignment/A00/headers/glm/gtx/mixed_product.hpp">
+			<Option target="A00"/>
+		</Unit>
+		<Unit filename="/home/sodenis/Documents/polimi/Computer Graphics/assignment/A00/headers/glm/gtx/mixed_product.inl">
+			<Option target="A00"/>
+		</Unit>
+		<Unit filename="/home/sodenis/Documents/polimi/Computer Graphics/assignment/A00/headers/glm/gtx/norm.hpp">
+			<Option target="A00"/>
+		</Unit>
+		<Unit filename="/home/sodenis/Documents/polimi/Computer Graphics/assignment/A00/headers/glm/gtx/norm.inl">
+			<Option target="A00"/>
+		</Unit>
+		<Unit filename="/home/sodenis/Documents/polimi/Computer Graphics/assignment/A00/headers/glm/gtx/normal.hpp">
+			<Option target="A00"/>
+		</Unit>
+		<Unit filename="/home/sodenis/Documents/polimi/Computer Graphics/assignment/A00/headers/glm/gtx/normal.inl">
+			<Option target="A00"/>
+		</Unit>
+		<Unit filename="/home/sodenis/Documents/polimi/Computer Graphics/assignment/A00/headers/glm/gtx/normalize_dot.hpp">
+			<Option target="A00"/>
+		</Unit>
+		<Unit filename="/home/sodenis/Documents/polimi/Computer Graphics/assignment/A00/headers/glm/gtx/normalize_dot.inl">
+			<Option target="A00"/>
+		</Unit>
+		<Unit filename="/home/sodenis/Documents/polimi/Computer Graphics/assignment/A00/headers/glm/gtx/number_precision.hpp">
+			<Option target="A00"/>
+		</Unit>
+		<Unit filename="/home/sodenis/Documents/polimi/Computer Graphics/assignment/A00/headers/glm/gtx/number_precision.inl">
+			<Option target="A00"/>
+		</Unit>
+		<Unit filename="/home/sodenis/Documents/polimi/Computer Graphics/assignment/A00/headers/glm/gtx/optimum_pow.hpp">
+			<Option target="A00"/>
+		</Unit>
+		<Unit filename="/home/sodenis/Documents/polimi/Computer Graphics/assignment/A00/headers/glm/gtx/optimum_pow.inl">
+			<Option target="A00"/>
+		</Unit>
+		<Unit filename="/home/sodenis/Documents/polimi/Computer Graphics/assignment/A00/headers/glm/gtx/orthonormalize.hpp">
+			<Option target="A00"/>
+		</Unit>
+		<Unit filename="/home/sodenis/Documents/polimi/Computer Graphics/assignment/A00/headers/glm/gtx/orthonormalize.inl">
+			<Option target="A00"/>
+		</Unit>
+		<Unit filename="/home/sodenis/Documents/polimi/Computer Graphics/assignment/A00/headers/glm/gtx/perpendicular.hpp">
+			<Option target="A00"/>
+		</Unit>
+		<Unit filename="/home/sodenis/Documents/polimi/Computer Graphics/assignment/A00/headers/glm/gtx/perpendicular.inl">
+			<Option target="A00"/>
+		</Unit>
+		<Unit filename="/home/sodenis/Documents/polimi/Computer Graphics/assignment/A00/headers/glm/gtx/polar_coordinates.hpp">
+			<Option target="A00"/>
+		</Unit>
+		<Unit filename="/home/sodenis/Documents/polimi/Computer Graphics/assignment/A00/headers/glm/gtx/polar_coordinates.inl">
+			<Option target="A00"/>
+		</Unit>
+		<Unit filename="/home/sodenis/Documents/polimi/Computer Graphics/assignment/A00/headers/glm/gtx/projection.hpp">
+			<Option target="A00"/>
+		</Unit>
+		<Unit filename="/home/sodenis/Documents/polimi/Computer Graphics/assignment/A00/headers/glm/gtx/projection.inl">
+			<Option target="A00"/>
+		</Unit>
+		<Unit filename="/home/sodenis/Documents/polimi/Computer Graphics/assignment/A00/headers/glm/gtx/quaternion.hpp">
+			<Option target="A00"/>
+		</Unit>
+		<Unit filename="/home/sodenis/Documents/polimi/Computer Graphics/assignment/A00/headers/glm/gtx/quaternion.inl">
+			<Option target="A00"/>
+		</Unit>
+		<Unit filename="/home/sodenis/Documents/polimi/Computer Graphics/assignment/A00/headers/glm/gtx/range.hpp">
+			<Option target="A00"/>
+		</Unit>
+		<Unit filename="/home/sodenis/Documents/polimi/Computer Graphics/assignment/A00/headers/glm/gtx/raw_data.hpp">
+			<Option target="A00"/>
+		</Unit>
+		<Unit filename="/home/sodenis/Documents/polimi/Computer Graphics/assignment/A00/headers/glm/gtx/raw_data.inl">
+			<Option target="A00"/>
+		</Unit>
+		<Unit filename="/home/sodenis/Documents/polimi/Computer Graphics/assignment/A00/headers/glm/gtx/rotate_normalized_axis.hpp">
+			<Option target="A00"/>
+		</Unit>
+		<Unit filename="/home/sodenis/Documents/polimi/Computer Graphics/assignment/A00/headers/glm/gtx/rotate_normalized_axis.inl">
+			<Option target="A00"/>
+		</Unit>
+		<Unit filename="/home/sodenis/Documents/polimi/Computer Graphics/assignment/A00/headers/glm/gtx/rotate_vector.hpp">
+			<Option target="A00"/>
+		</Unit>
+		<Unit filename="/home/sodenis/Documents/polimi/Computer Graphics/assignment/A00/headers/glm/gtx/rotate_vector.inl">
+			<Option target="A00"/>
+		</Unit>
+		<Unit filename="/home/sodenis/Documents/polimi/Computer Graphics/assignment/A00/headers/glm/gtx/scalar_multiplication.hpp">
+			<Option target="A00"/>
+		</Unit>
+		<Unit filename="/home/sodenis/Documents/polimi/Computer Graphics/assignment/A00/headers/glm/gtx/scalar_relational.hpp">
+			<Option target="A00"/>
+		</Unit>
+		<Unit filename="/home/sodenis/Documents/polimi/Computer Graphics/assignment/A00/headers/glm/gtx/scalar_relational.inl">
+			<Option target="A00"/>
+		</Unit>
+		<Unit filename="/home/sodenis/Documents/polimi/Computer Graphics/assignment/A00/headers/glm/gtx/spline.hpp">
+			<Option target="A00"/>
+		</Unit>
+		<Unit filename="/home/sodenis/Documents/polimi/Computer Graphics/assignment/A00/headers/glm/gtx/spline.inl">
+			<Option target="A00"/>
+		</Unit>
+		<Unit filename="/home/sodenis/Documents/polimi/Computer Graphics/assignment/A00/headers/glm/gtx/std_based_type.hpp">
+			<Option target="A00"/>
+		</Unit>
+		<Unit filename="/home/sodenis/Documents/polimi/Computer Graphics/assignment/A00/headers/glm/gtx/std_based_type.inl">
+			<Option target="A00"/>
+		</Unit>
+		<Unit filename="/home/sodenis/Documents/polimi/Computer Graphics/assignment/A00/headers/glm/gtx/string_cast.hpp">
+			<Option target="A00"/>
+		</Unit>
+		<Unit filename="/home/sodenis/Documents/polimi/Computer Graphics/assignment/A00/headers/glm/gtx/string_cast.inl">
+			<Option target="A00"/>
+		</Unit>
+		<Unit filename="/home/sodenis/Documents/polimi/Computer Graphics/assignment/A00/headers/glm/gtx/texture.hpp">
+			<Option target="A00"/>
+		</Unit>
+		<Unit filename="/home/sodenis/Documents/polimi/Computer Graphics/assignment/A00/headers/glm/gtx/texture.inl">
+			<Option target="A00"/>
+		</Unit>
+		<Unit filename="/home/sodenis/Documents/polimi/Computer Graphics/assignment/A00/headers/glm/gtx/transform.hpp">
+			<Option target="A00"/>
+		</Unit>
+		<Unit filename="/home/sodenis/Documents/polimi/Computer Graphics/assignment/A00/headers/glm/gtx/transform.inl">
+			<Option target="A00"/>
+		</Unit>
+		<Unit filename="/home/sodenis/Documents/polimi/Computer Graphics/assignment/A00/headers/glm/gtx/transform2.hpp">
+			<Option target="A00"/>
+		</Unit>
+		<Unit filename="/home/sodenis/Documents/polimi/Computer Graphics/assignment/A00/headers/glm/gtx/transform2.inl">
+			<Option target="A00"/>
+		</Unit>
+		<Unit filename="/home/sodenis/Documents/polimi/Computer Graphics/assignment/A00/headers/glm/gtx/type_aligned.hpp">
+			<Option target="A00"/>
+		</Unit>
+		<Unit filename="/home/sodenis/Documents/polimi/Computer Graphics/assignment/A00/headers/glm/gtx/type_aligned.inl">
+			<Option target="A00"/>
+		</Unit>
+		<Unit filename="/home/sodenis/Documents/polimi/Computer Graphics/assignment/A00/headers/glm/gtx/type_trait.hpp">
+			<Option target="A00"/>
+		</Unit>
+		<Unit filename="/home/sodenis/Documents/polimi/Computer Graphics/assignment/A00/headers/glm/gtx/type_trait.inl">
+			<Option target="A00"/>
+		</Unit>
+		<Unit filename="/home/sodenis/Documents/polimi/Computer Graphics/assignment/A00/headers/glm/gtx/vec_swizzle.hpp">
+			<Option target="A00"/>
+		</Unit>
+		<Unit filename="/home/sodenis/Documents/polimi/Computer Graphics/assignment/A00/headers/glm/gtx/vector_angle.hpp">
+			<Option target="A00"/>
+		</Unit>
+		<Unit filename="/home/sodenis/Documents/polimi/Computer Graphics/assignment/A00/headers/glm/gtx/vector_angle.inl">
+			<Option target="A00"/>
+		</Unit>
+		<Unit filename="/home/sodenis/Documents/polimi/Computer Graphics/assignment/A00/headers/glm/gtx/vector_query.hpp">
+			<Option target="A00"/>
+		</Unit>
+		<Unit filename="/home/sodenis/Documents/polimi/Computer Graphics/assignment/A00/headers/glm/gtx/vector_query.inl">
+			<Option target="A00"/>
+		</Unit>
+		<Unit filename="/home/sodenis/Documents/polimi/Computer Graphics/assignment/A00/headers/glm/gtx/wrap.hpp">
+			<Option target="A00"/>
+		</Unit>
+		<Unit filename="/home/sodenis/Documents/polimi/Computer Graphics/assignment/A00/headers/glm/gtx/wrap.inl">
+			<Option target="A00"/>
+		</Unit>
+		<Unit filename="/home/sodenis/Documents/polimi/Computer Graphics/assignment/A00/headers/glm/integer.hpp">
+			<Option target="A00"/>
+		</Unit>
+		<Unit filename="/home/sodenis/Documents/polimi/Computer Graphics/assignment/A00/headers/glm/mat2x2.hpp">
+			<Option target="A00"/>
+		</Unit>
+		<Unit filename="/home/sodenis/Documents/polimi/Computer Graphics/assignment/A00/headers/glm/mat2x3.hpp">
+			<Option target="A00"/>
+		</Unit>
+		<Unit filename="/home/sodenis/Documents/polimi/Computer Graphics/assignment/A00/headers/glm/mat2x4.hpp">
+			<Option target="A00"/>
+		</Unit>
+		<Unit filename="/home/sodenis/Documents/polimi/Computer Graphics/assignment/A00/headers/glm/mat3x2.hpp">
+			<Option target="A00"/>
+		</Unit>
+		<Unit filename="/home/sodenis/Documents/polimi/Computer Graphics/assignment/A00/headers/glm/mat3x3.hpp">
+			<Option target="A00"/>
+		</Unit>
+		<Unit filename="/home/sodenis/Documents/polimi/Computer Graphics/assignment/A00/headers/glm/mat3x4.hpp">
+			<Option target="A00"/>
+		</Unit>
+		<Unit filename="/home/sodenis/Documents/polimi/Computer Graphics/assignment/A00/headers/glm/mat4x2.hpp">
+			<Option target="A00"/>
+		</Unit>
+		<Unit filename="/home/sodenis/Documents/polimi/Computer Graphics/assignment/A00/headers/glm/mat4x3.hpp">
+			<Option target="A00"/>
+		</Unit>
+		<Unit filename="/home/sodenis/Documents/polimi/Computer Graphics/assignment/A00/headers/glm/mat4x4.hpp">
+			<Option target="A00"/>
+		</Unit>
+		<Unit filename="/home/sodenis/Documents/polimi/Computer Graphics/assignment/A00/headers/glm/matrix.hpp">
+			<Option target="A00"/>
+		</Unit>
+		<Unit filename="/home/sodenis/Documents/polimi/Computer Graphics/assignment/A00/headers/glm/packing.hpp">
+			<Option target="A00"/>
+		</Unit>
+		<Unit filename="/home/sodenis/Documents/polimi/Computer Graphics/assignment/A00/headers/glm/simd/platform.h">
+			<Option target="A00"/>
+		</Unit>
+		<Unit filename="/home/sodenis/Documents/polimi/Computer Graphics/assignment/A00/headers/glm/trigonometric.hpp">
+			<Option target="A00"/>
+		</Unit>
+		<Unit filename="/home/sodenis/Documents/polimi/Computer Graphics/assignment/A00/headers/glm/vec2.hpp">
+			<Option target="A00"/>
+		</Unit>
+		<Unit filename="/home/sodenis/Documents/polimi/Computer Graphics/assignment/A00/headers/glm/vec3.hpp">
+			<Option target="A00"/>
+		</Unit>
+		<Unit filename="/home/sodenis/Documents/polimi/Computer Graphics/assignment/A00/headers/glm/vec4.hpp">
+			<Option target="A00"/>
+		</Unit>
+		<Unit filename="/home/sodenis/Documents/polimi/Computer Graphics/assignment/A00/headers/glm/vector_relational.hpp">
+			<Option target="A00"/>
+		</Unit>
+		<Unit filename="/home/sodenis/Documents/polimi/Computer Graphics/assignment/A00/headers/json.hpp">
+			<Option target="A00"/>
+		</Unit>
+		<Unit filename="/home/sodenis/Documents/polimi/Computer Graphics/assignment/A00/headers/stb_image.h">
+			<Option target="A00"/>
+		</Unit>
+		<Unit filename="/home/sodenis/Documents/polimi/Computer Graphics/assignment/A00/headers/stb_image_write.h">
+			<Option target="A00"/>
+		</Unit>
+		<Unit filename="/home/sodenis/Documents/polimi/Computer Graphics/assignment/A00/headers/tiny_gltf.h">
+			<Option target="A00"/>
+		</Unit>
+		<Unit filename="/home/sodenis/Documents/polimi/Computer Graphics/assignment/A00/headers/tiny_obj_loader.h">
+			<Option target="A00"/>
+		</Unit>
+		<Unit filename="/home/sodenis/Documents/polimi/Computer Graphics/assignment/A00/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
