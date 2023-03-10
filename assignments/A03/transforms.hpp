@@ -24,8 +24,8 @@ void SetupMatrices(Assignment03 *A) {
 	S = glm::mat4(1);
 	S = inverse(translate(glm::mat4(1),glm::vec3(1,0,0))) * S;
 	S = inverse(rotate(glm::mat4(1),glm::radians(45.0f),glm::vec3(0,1,0))) *S ;
-/*	S = scale(glm::mat4(1), glm::vec3(3,1,1)) * S;
-	S = rotate(glm::mat4(1),glm::radians(45.0f),glm::vec3(0,1,0)) *S ;*/
+ 	S = scale(glm::mat4(1), glm::vec3(3,1,1)) * S;
+	S = rotate(glm::mat4(1),glm::radians(45.0f),glm::vec3(0,1,0)) *S ;
 	//S = scale(glm::mat4(1), glm::vec3(2)) * S;
 
 	S = translate(glm::mat4(1),glm::vec3(1,0,0)) * S;
