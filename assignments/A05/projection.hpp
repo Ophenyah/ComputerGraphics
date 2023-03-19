@@ -28,7 +28,9 @@ void SetupProjectionMatrices(Assignment05 *A, float Ar) {
     A->Matrix(3, S); // sets the matrix corresponding to piece 3
 
 	// Right View, Fov-x = 45 deg
-	S = glm::mat4(1);
+    //I'm not sure at all what we are supposed to do
+	S = glm::perspective(glm::radians(45.0f),Ar,0.05f,100.0f);
+    S = glm::rotate(S,glm::radians(90.0f),glm::vec3(0,1,0));
 	A->Matrix(4, S); // sets the matrix corresponding to piece 4
 
 }
